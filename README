@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=867
+
+A phonetic/visual Hebrew alphabet keyboard map, for entering to ISO-8859-8 hebrew chars.
+Different than the 'internal' map.
+
+The usage of 'reversed-insert' mode is configurable.
